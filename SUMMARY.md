@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Welcome to Openbook Project.](README.md)
+* [📚 Welcome to OpenBook Project !](README.md)
