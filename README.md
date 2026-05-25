@@ -1,4 +1,4 @@
-# 📚 Welcome to OpenBook Project !
+# Welcome to OpenBook Project !
 
 ## 백엔드 엔지니어링 오픈북 프로젝트입니다.
 
@@ -8,19 +8,26 @@
 
 ***
 
-### 📂 \[1] CS & Core Engineering
+### 📚 백엔드 개발자의 사고방식, 마음가짐
+
+백엔드 엔지니어링을 하기 위한 사고방식, 마음가짐의 방향을 먼저 다듬습니다.
+
+* 설계 안목을 넓히고 엔지니어링 역량을 깊게 함양해야 하는 이유
+
+### 📂 1. CS & Core Engineering
 
 모든 소프트웨어의 기반이 되는 컴퓨터 공학 기본기와 Java 핵심 기술을 다룹니다.
 
-* **1-1. CS / Basic & Git** _(0. CS/Basic, 4. Git)_
-* **1-2. 프로세스와 스레드** _(22. 프로세스/스레드)_
-* **1-3. 연속메모리 할당 기법** _(3. 연속메모리 할당 기법)_
-* **1-4. IPC (Inter-Process Communication)** _(9. IPC)_
-* **1-5. Java 언어의 깊이: 제너릭 & 직렬화** _(21. 제너릭, 36. 직렬화)_
+* **1-1. CS / Basic** _(0. CS/Basic)_
+* **1-2.** **Git** _(4. Git)_
+* **1-3. 프로세스와 스레드** _(22. 프로세스/스레드)_
+* **1-4. 연속메모리 할당 기법** _(3. 연속메모리 할당 기법)_
+* **1-5. IPC (Inter-Process Communication)** _(9. IPC)_
+* **1-6. Java 언어의 깊이: 제너릭 & 직렬화** _(21. 제너릭, 36. 직렬화)_
 
 ***
 
-### 📂 \[2] Web & Application Architecture
+### 📂 2. Web & Application Architecture
 
 웹 기술의 근간과 Spring 프레임워크 기반의 설계 요소를 다룹니다.
 
@@ -33,7 +40,7 @@
 
 ***
 
-### 📂 \[3] Data Engineering & Persistence
+### 📂 3. Data Engineering & Persistence
 
 데이터를 안정적으로 저장하고, 조회 성능을 극대화하며, 배치 처리를 수행하는 영역입니다.
 
@@ -45,7 +52,7 @@
 
 ***
 
-### 📂 \[4] Caching & Message Queue
+### 📂 4. Caching & Message Queue
 
 대규모 트래픽 환경에서 성능을 보장하기 위한 캐싱 전략과 비동기 메시징 시스템입니다.
 
@@ -55,7 +62,7 @@
 
 ***
 
-### 📂 \[5] Microservices & Cloud Architecture
+### 📂 5. Microservices & Cloud Architecture
 
 현대적인 대규모 분산 시스템(MSA)을 설계하고 안정성을 확보하는 아키텍처 영역입니다.
 
@@ -66,7 +73,7 @@
 
 ***
 
-### 📂 \[6] DevOps, Virtualization & Observability
+### 📂 6. DevOps, Virtualization & Observability
 
 애플리케이션이 구동되는 인프라 환경과 시스템을 안정적으로 운영하기 위한 모니터링 영역입니다.
 
