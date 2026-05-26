@@ -18,8 +18,8 @@
 
 [모든 소프트웨어의 기반이 되는 컴퓨터 공학 기본기와 Java 핵심 기술을 다룹니다.](1.-cs-and-core-engineering.md)
 
-* [**1-1. CS / Basic** #1 : 자료구조 및 알고리즘](1-1.-cs-basic-1.md)
-* [**1-1. CS / Basic** #2 : 컴퓨터 공학 이론](1-1.-cs-basic-2.md)
+* [**1-1. CS / Basic #1 : 자료구조 및 알고리즘**](1-1.-cs-basic-1.md)
+* [**1-1. CS / Basic #2 : 컴퓨터 공학 이론**](1-1.-cs-basic-2.md)
 * [**1-2.** **Git**](1-2.-git.md)
 * [**1-3. 프로세스와 스레드**](1-3..md)
 * [**1-4. 연속메모리 할당 기법**](1-4..md)
@@ -29,16 +29,21 @@
 
 ***
 
-### 📂 2. Web & Application Architecture
+### [📂 2. Web & Application Architecture](2.-web-and-application-architecture.md)
 
-웹 기술의 근간과 Spring 프레임워크 기반의 설계 요소를 다룹니다.
+[웹 기술의 근간과 Spring 프레임워크 기반의 설계 요소를 다룹니다.](2.-web-and-application-architecture.md)
 
-* **2-1. Networks & Proxy** _(5. Networks, 39. Proxy)_
-* **2-2. 동기 / 비동기 프로그래밍** _(10. 동기/비동기)_
-* **2-3. Spring Core & 웹 설정** _(17. Spring, 18. Spring Web MVC / Bean, 20. 웹설정)_
-* **2-4. Spring 고급 (AOP & Proxy)** _(32. AOP)_
-* **2-5. Web 동시성 & 비동기 웹 (Webflux)** _(23. Web 동시성, 24. Webflux)_
-* **2-6. 애플리케이션 설계 및 TDD** _(11. 설계, 25. TDD)_
+* [**2-1. Networks** ](2-1.-networks.md)
+* [**2-2. AOP**](2-2.-aop.md)
+* [**2-3. Proxy**](2-3.-proxy.md)
+* [**2-4. 동기 / 비동기**](2-4..md)
+* [**2-5. Spring Core #1 : Module / Transaction** ](2-5.-spring-core-1-module-transaction.md)
+* [**2-5. Spring Core #2  : JVM / Web MVC / Bean**](2-5.-spring-core-2-jvm-web-mvc-bean.md)
+* [**2-5. Spring Core #3 : 부가&#x20;**_**설정**_](2-5.-spring-core-3.md)
+* [**2-5. Spring Core #4 : Entity Manager / Transaction Manager**](2-5.-spring-core-4-entity-manager-transaction-manager.md)
+* [**2-6. Spring Application & Web 동시성**](2-6.-spring-application-and-web.md)
+* [**2-7. Web 비동기 (Webflux)**](2-7.-web-webflux.md)
+* [**2-8. TDD**](2-8.-tdd.md)
 
 ***
 
@@ -46,11 +51,12 @@
 
 데이터를 안정적으로 저장하고, 조회 성능을 극대화하며, 배치 처리를 수행하는 영역입니다.
 
-* **3-1. DB / RDBMS 기초 및 설계** _(26. DB/RDBMS)_
-* **3-2. 데이터베이스 인덱스 (Index)** _(27. 인덱스)_
-* **3-3. DB 트랜잭션 및 동시성** _(19. Spring Transaction, 28. DB 동시성)_
-* **3-4. JPA & N+1 문제 해결** _(34. JPA, 35. JPA N+1)_
-* **3-5. 대용량 데이터 처리 (Spring Batch)** _(33. Batch)_
+* **3-1. Data / DB Modeling (설계)**
+* **3-2. DB / RDBMS 기초 및 설계&#x20;**_**(26. DB/RDBMS)**_
+* **3-3. 데이터베이스 인덱스 (Index)&#x20;**_**(27. 인덱스)**_
+* **3-4. DB 트랜잭션 및 동시성&#x20;**_**(19. Spring Transaction, 28. DB 동시성)**_
+* **3-5. JPA & N+1 문제 해결&#x20;**_**(34. JPA, 35. JPA N+1)**_
+* **3-6. 대용량 데이터 처리 (Spring Batch)&#x20;**_**(33. Batch)**_
 
 ***
 
