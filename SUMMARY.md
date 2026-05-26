@@ -23,4 +23,5 @@
 * [2-5. Spring Core #4 : Entity Manager / Transaction Manager](2-5.-spring-core-4-entity-manager-transaction-manager.md)
 * [2-6. Spring Application & Web 동시성](2-6.-spring-application-and-web.md)
 * [2-7. Web 비동기 (Webflux)](2-7.-web-webflux.md)
-* [2-8. TDD](2-8.-tdd.md)
+* [2-8. Spring Batch](2-8.-spring-batch.md)
+* [2-9. TDD](2-9.-tdd.md)

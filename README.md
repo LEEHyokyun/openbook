@@ -43,7 +43,8 @@
 * [**2-5. Spring Core #4 : Entity Manager / Transaction Manager**](2-5.-spring-core-4-entity-manager-transaction-manager.md)
 * [**2-6. Spring Application & Web 동시성**](2-6.-spring-application-and-web.md)
 * [**2-7. Web 비동기 (Webflux)**](2-7.-web-webflux.md)
-* [**2-8. TDD**](2-8.-tdd.md)
+* [**2-8. Spring Batch**](2-8.-spring-batch.md)
+* [**2-9. TDD**](2-9.-tdd.md)
 
 ***
 
@@ -56,7 +57,6 @@
 * **3-3. 데이터베이스 인덱스 (Index)&#x20;**_**(27. 인덱스)**_
 * **3-4. DB 트랜잭션 및 동시성&#x20;**_**(19. Spring Transaction, 28. DB 동시성)**_
 * **3-5. JPA & N+1 문제 해결&#x20;**_**(34. JPA, 35. JPA N+1)**_
-* **3-6. 대용량 데이터 처리 (Spring Batch)&#x20;**_**(33. Batch)**_
 
 ***
 
