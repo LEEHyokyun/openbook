@@ -62,17 +62,19 @@
 
 ***
 
-### 📂 4. Caching & Message Queue
+### [📂 4. Caching & Message Queue](4.-caching-and-message-queue.md)
 
-대규모 트래픽 환경에서 성능을 보장하기 위한 캐싱 전략과 비동기 메시징 시스템입니다.
+[대규모 트래픽 환경에서 성능을 보장하기 위한 캐싱 전략과 비동기 메시징 시스템을 다룹니다.](4.-caching-and-message-queue.md)
 
-* **4-1. 캐싱 전략 (Cache)** _(29. Cache)_
-* **4-2. Redis 활용 및 병목 현상 (Bottleneck)** _(30. Redis, 31. Redis Bottleneck)_
-* **4-3. 메시지 브로커 (RabbitMQ & Kafka)** _(37. RabbitMQ & Kafka)_
+* [**4-1. 캐싱 전략 (Cache)**](cache.md)
+* [**4-2. Redis 활용 및 병목 현상(Bottleneck) #1 : Redis에 대한 고찰** ](4-2.-redis-bottleneck-1-redis.md)
+* [_**4-2.**_**&#x20;Redis 활용 및 병목 현상(Bottleneck) #2 : Redis 부가 속성**](4-2.-redis-bottleneck-2-redis.md)
+* [**4-2. Redis 활용 및 병목 현상(Bottleneck) #2 : Redis 병목 현상**](4-2.-redis-bottleneck-3-redis.md)
+* [**4-3. 메시지 브로커 (RabbitMQ & Kafka)**](4-3.-rabbitmq-and-kafka.md)
 
 ***
 
-### 📂 5. Microservices & Cloud Architecture
+### 📂 5. Microservices & Cloud Native Architecture
 
 현대적인 대규모 분산 시스템(MSA)을 설계하고 안정성을 확보하는 아키텍처 영역입니다.
 
