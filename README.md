@@ -45,7 +45,7 @@
 * [**2-7. Web 비동기 (Webflux)**](2-7.-web-webflux.md)
 * [**2-8. Spring Batch**](2-8.-spring-batch.md)
 * [**2-9. TDD**](2-9.-tdd.md)
-* **2-10. Clean Architecture**
+* [**2-10. Clean Architecture**](2-10.-clean-architecture.md)
 * **2-11. JPA #1 : 핵심 속성**
 * **2-11. JPA #2 : N+1 Problem**
 
