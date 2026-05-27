@@ -45,18 +45,20 @@
 * [**2-7. Web 비동기 (Webflux)**](2-7.-web-webflux.md)
 * [**2-8. Spring Batch**](2-8.-spring-batch.md)
 * [**2-9. TDD**](2-9.-tdd.md)
+* [**2-10. Clean Architecture**](2-10.-clean-architecture.md)
+* [**2-11. JPA #1 : 핵심 속성**](2-11.-jpa-1.md)
+* [**2-11. JPA #2 : N+1 Problem**](2-11.-jpa-2-n+1-problem.md)
 
 ***
 
-### 📂 3. Data Engineering & Persistence
+### [📂 3. Data Engineering & Persistence](3.-data-engineering-and-persistence.md)
 
-데이터를 안정적으로 저장하고, 조회 성능을 극대화하며, 배치 처리를 수행하는 영역입니다.
+[데이터를 안정적으로 저장하고, 이를 관리/활용하기 위한 방법을 다룹니다.](3.-data-engineering-and-persistence.md)
 
-* **3-1. Data / DB Modeling (설계)**
-* **3-2. DB / RDBMS 기초 및 설계&#x20;**_**(26. DB/RDBMS)**_
-* **3-3. 데이터베이스 인덱스 (Index)&#x20;**_**(27. 인덱스)**_
-* **3-4. DB 트랜잭션 및 동시성&#x20;**_**(19. Spring Transaction, 28. DB 동시성)**_
-* **3-5. JPA & N+1 문제 해결&#x20;**_**(34. JPA, 35. JPA N+1)**_
+* [**3-1. Data / DB Modeling**](3-1.-data-db-modeling.md)
+* [**3-2. DB / RDBMS 기초 및 설계 사상**](3-2.-db-rdbms.md)
+* [**3-3. 데이터베이스 인덱스**](3-3..md)
+* [**3-4. DB 동시 버전 관리(동시성)**](3-4.-db.md)
 
 ***
 
@@ -75,7 +77,6 @@
 현대적인 대규모 분산 시스템(MSA)을 설계하고 안정성을 확보하는 아키텍처 영역입니다.
 
 * **5-1. MSA, DDD 및 멱등성 설계** _(8. 멱등성, 12. MSA, 13. DDD)_
-* **5-2. Clean Architecture** _(1. Clean Architecture)_
 * **5-3. Spring Cloud & 분산 통신** _(14. Spring Cloud)_
 * **5-4. 시스템 회복 탄력성 (Circuit Breaker & Fallback)** _(2. Circuit Breaker & Fallback)_
 
