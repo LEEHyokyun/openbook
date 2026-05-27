@@ -24,8 +24,8 @@
 * [**1-3. 프로세스와 스레드**](1-3..md)
 * [**1-4. 연속메모리 할당 기법**](1-4..md)
 * [**1-5. IPC (Inter-Process Communication)**](1-5.-ipc-inter-process-communication.md)
-* [**1-6. Java 언어의 깊이 : 제너릭**](1-6.-java.md)
-* [**1-7. Java 언어의 깊이 :** **직렬화**](1-7.-java.md)
+* [**1-6. 직렬화**](1-6..md)
+* [**1-7. Java 언어의 깊이 : 제너릭**](1-7.-java.md)
 
 ***
 
