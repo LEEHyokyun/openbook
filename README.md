@@ -71,16 +71,18 @@
 * [_**4-2.**_**&#x20;Redis 활용 및 병목 현상(Bottleneck) #2 : Redis 부가 속성**](4-2.-redis-bottleneck-2-redis.md)
 * [**4-2. Redis 활용 및 병목 현상(Bottleneck) #2 : Redis 병목 현상**](4-2.-redis-bottleneck-3-redis.md)
 * [**4-3. 메시지 브로커 (RabbitMQ & Kafka)**](4-3.-rabbitmq-and-kafka.md)
+* [**4-4. 멱등성**](4-4..md)
 
 ***
 
-### 📂 5. Microservices & Cloud Native Architecture
+### [📂 5. Microservices & Cloud Native Architecture](5.-microservices-and-cloud-native-architecture.md)
 
-현대적인 대규모 분산 시스템(MSA)을 설계하고 안정성을 확보하는 아키텍처 영역입니다.
+[대규모 분산 시스템(MSA/Cloud Native)을 설계하고 안정성을 확보하는 아키텍처에 대한 내용을 다룹니다.](5.-microservices-and-cloud-native-architecture.md)
 
-* **5-1. MSA, DDD 및 멱등성 설계** _(8. 멱등성, 12. MSA, 13. DDD)_
-* **5-3. Spring Cloud & 분산 통신** _(14. Spring Cloud)_
-* **5-4. 시스템 회복 탄력성 (Circuit Breaker & Fallback)** _(2. Circuit Breaker & Fallback)_
+* [**5-1. MSA**](5-1.-msa.md)
+* [**5-2. DDD**](5-2.-ddd.md)
+* [**5-3. Spring Cloud & Cloud Native**](5-3.-spring-cloud-and-cloud-native.md)
+* [**5-4. 분산 시스템의 내결함성, 회복 탄력성 (Circuit Breaker & Fallback)**](5-4.-circuit-breaker-and-fallback.md)
 
 ***
 
