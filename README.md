@@ -86,9 +86,9 @@
 
 ***
 
-### 📂 6. DevOps, Virtualization & Observability
+### [📂 6. DevOps, Virtualization & Observability](6.-devops-virtualization-and-observability.md)
 
-애플리케이션이 구동되는 인프라 환경과 시스템을 안정적으로 운영하기 위한 모니터링에 대해 다룹니다.
+[애플리케이션이 구동되는 인프라 환경과 시스템을 안정적으로 운영하기 위한 모니터링에 대해 다룹니다.](6.-devops-virtualization-and-observability.md)
 
 * [**6-1. 가상화 기술 및 Cloud Native**](6-1.-cloud-native.md)
 * [**6-2. Docker #1 : Docker**](6-2.-docker-1-docker.md)
