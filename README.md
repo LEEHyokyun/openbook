@@ -80,9 +80,10 @@
 [대규모 분산 시스템(MSA/Cloud Native)을 설계하고 안정성을 확보하는 아키텍처에 대한 내용을 다룹니다.](5.-microservices-and-cloud-native-architecture.md)
 
 * [**5-1. MSA**](5-1.-msa.md)
-* [**5-2. DDD**](5-2.-ddd.md)
-* [**5-3. Spring Cloud & Cloud Native**](5-3.-spring-cloud-and-cloud-native.md)
-* [**5-4. 분산 시스템의 내결함성, 회복 탄력성 (Circuit Breaker & Fallback)**](5-4.-circuit-breaker-and-fallback.md)
+* [**5-2. 이기종**](5-2..md)
+* [**5-3. DDD**](5-3.-ddd.md)
+* [**5-4. Spring Cloud & Cloud Native**](5-4.-spring-cloud-and-cloud-native.md)
+* [**5-5. 분산 시스템의 내결함성, 회복 탄력성 (Circuit Breaker & Fallback)**](5-5.-circuit-breaker-and-fallback.md)
 
 ***
 
