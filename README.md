@@ -42,12 +42,13 @@
 * [**2-5. Spring Core #3 : 부가&#x20;**_**설정**_](2-5.-spring-core-3.md)
 * [**2-5. Spring Core #4 : Entity Manager / Transaction Manager**](2-5.-spring-core-4-entity-manager-transaction-manager.md)
 * [**2-6. Spring Application & Web 동시성**](2-6.-spring-application-and-web.md)
-* [**2-7. Web 비동기 (Webflux)**](2-7.-web-webflux.md)
-* [**2-8. Spring Batch**](2-8.-spring-batch.md)
-* [**2-9. TDD**](2-9.-tdd.md)
-* [**2-10. Clean Architecture**](2-10.-clean-architecture.md)
-* [**2-11. JPA #1 : 핵심 속성**](2-11.-jpa-1.md)
-* [**2-11. JPA #2 : N+1 Problem**](2-11.-jpa-2-n+1-problem.md)
+* [**2-7. Race Condition의 본질**](2-7.-race-condition.md)
+* [**2-8. Web 비동기 (Webflux)**](2-8.-web-webflux.md)
+* [**2-9. Spring Batch**](2-9.-spring-batch.md)
+* [**2-10. TDD**](2-10.-tdd.md)
+* [**2-11. Clean Architecture**](2-11.-clean-architecture.md)
+* [**2-12. JPA #1 : 핵심 속성**](2-12.-jpa-1.md)
+* [**2-12 JPA #2 : N+1 Problem**](2-12.-jpa-2-n+1-problem.md)
 
 ***
 
