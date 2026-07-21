@@ -29,6 +29,7 @@
 * [2-11. Clean Architecture](2-11.-clean-architecture.md)
 * [2-12. JPA #1 : 핵심 속성](2-12.-jpa-1.md)
 * [2-12. JPA #2 : N+1 Problem](2-12.-jpa-2-n+1-problem.md)
+* [2-13. 세션](2-13..md)
 * [📂 3. Data Engineering & Persistence](3.-data-engineering-and-persistence.md)
 * [3-1. Data / DB Modeling](3-1.-data-db-modeling.md)
 * [3-2. DB / RDBMS 기초 및 설계 사상](3-2.-db-rdbms.md)

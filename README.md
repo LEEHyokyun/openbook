@@ -48,7 +48,8 @@
 * [**2-10. TDD**](2-10.-tdd.md)
 * [**2-11. Clean Architecture**](2-11.-clean-architecture.md)
 * [**2-12. JPA #1 : 핵심 속성**](2-12.-jpa-1.md)
-* [**2-12 JPA #2 : N+1 Problem**](2-12.-jpa-2-n+1-problem.md)
+* [**2-12. JPA #2 : N+1 Problem**](2-12.-jpa-2-n+1-problem.md)
+* [**2-13. 세션**](2-13..md)
 
 ***
 
