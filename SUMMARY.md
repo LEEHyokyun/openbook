@@ -35,7 +35,7 @@
 * [3-3. 데이터베이스 인덱스](3-3..md)
 * [3-4. DB 동시 버전 관리(동시성)](3-4.-db.md)
 * [📂 4. Caching & Message Queue](4.-caching-and-message-queue.md)
-* [캐싱 전략 (Cache)](cache.md)
+* [4-1. 캐싱 전략 (Cache)](4-1.-cache.md)
 * [4-2. Redis 활용 및 병목 현상 (Bottleneck) #1 : Redis에 대한 고찰](4-2.-redis-bottleneck-1-redis.md)
 * [4-2. Redis 활용 및 병목 현상 (Bottleneck) #2 : Redis 부가 속성](4-2.-redis-bottleneck-2-redis.md)
 * [4-2. Redis 활용 및 병목 현상 (Bottleneck) #3 : Redis 병목 현상](4-2.-redis-bottleneck-3-redis.md)

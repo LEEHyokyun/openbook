@@ -67,10 +67,10 @@
 
 [대규모 트래픽 환경에서 성능을 보장하기 위한 캐싱 전략과 비동기 메시징 시스템을 다룹니다.](4.-caching-and-message-queue.md)
 
-* [**4-1. 캐싱 전략 (Cache)**](cache.md)
+* [**4-1. 캐싱 전략 (Cache)**](4-1.-cache.md)
 * [**4-2. Redis 활용 및 병목 현상(Bottleneck) #1 : Redis에 대한 고찰** ](4-2.-redis-bottleneck-1-redis.md)
 * [_**4-2.**_**&#x20;Redis 활용 및 병목 현상(Bottleneck) #2 : Redis 부가 속성**](4-2.-redis-bottleneck-2-redis.md)
-* [**4-2. Redis 활용 및 병목 현상(Bottleneck) #2 : Redis 병목 현상**](4-2.-redis-bottleneck-3-redis.md)
+* [**4-2. Redis 활용 및 병목 현상(Bottleneck) #3 : Redis 병목 현상**](4-2.-redis-bottleneck-3-redis.md)
 * [**4-3. 메시지 브로커 (RabbitMQ & Kafka)**](4-3.-rabbitmq-and-kafka.md)
 * [**4-4. 멱등성**](4-4..md)
 
