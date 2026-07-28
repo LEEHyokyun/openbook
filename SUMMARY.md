@@ -52,5 +52,6 @@
 * [6-1. 가상화 기술 및 Cloud Native](6-1.-cloud-native.md)
 * [6-2. Docker #1 : Docker 속성](6-2.-docker-1-docker.md)
 * [6-2. Docker #2 : Docker Network](6-2.-docker-2-docker-network.md)
+* [6-2. Docker #3 : Swarm / Service / Stack](6-2.-docker-3-swarm-service-stack.md)
 * [6-3. DevOps & CI/CD](6-3.-devops-and-ci-cd.md)
 * [6-4. 모니터링과 디버깅](6-4..md)
