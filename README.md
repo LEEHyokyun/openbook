@@ -25,7 +25,8 @@
 * [**1-4. 연속메모리 할당 기법**](1-4..md)
 * [**1-5. IPC (Inter-Process Communication)**](1-5.-ipc-inter-process-communication.md)
 * [**1-6. 직렬화**](1-6..md)
-* [**1-7. Java 언어의 깊이 : 제너릭**](1-7.-java.md)
+* [**1-7. JSON**](1-7.-json.md)
+* [**1-8. Java 언어의 깊이 : 제너릭**](1-8.-java.md)
 
 ***
 
