@@ -56,3 +56,5 @@
 * [6-2. Docker #3 : Swarm / Service / Stack](6-2.-docker-3-swarm-service-stack.md)
 * [6-3. DevOps & CI/CD](6-3.-devops-and-ci-cd.md)
 * [6-4. 모니터링과 디버깅](6-4..md)
+* [📂 7.  AI](7.-ai.md)
+* [7-1. AI의 구성요소와 아키텍처 기본](7-1.-ai.md)
